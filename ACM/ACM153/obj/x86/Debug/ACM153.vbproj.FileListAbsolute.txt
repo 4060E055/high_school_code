@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\桌面\ACM153\bin\Debug\ACM153.exe
+C:\Documents and Settings\admin\桌面\ACM153\bin\Debug\ACM153.pdb
+C:\Documents and Settings\admin\桌面\ACM153\bin\Debug\ACM153.xml
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\ACM153.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\ACM153.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\ACM153.exe
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\ACM153.xml
+C:\Documents and Settings\admin\桌面\ACM153\obj\x86\Debug\ACM153.pdb

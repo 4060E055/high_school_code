@@ -1,0 +1,26 @@
+C:\Documents and Settings\karen_tsai\桌面\術科\第4回合\待編修檔\VBD02\htmlApplication\obj\Debug\htmlApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第4回合\待編修檔\VBD02\htmlApplication\obj\Debug\htmlApplication.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第4回合\待編修檔\VBD02\htmlApplication\obj\Debug\htmlApplication.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\bin\Debug\VBD02.exe
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\bin\Debug\VBD02.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\bin\Debug\VBD02.xml
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\VBD02.Form1.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\VBD02.Resources.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\VBD02.vbproj.GenerateResource.Cache
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\VBD02.exe
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\VBD02.xml
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第四回合\VBD02\obj\Debug\VBD02.pdb
+C:\ANS.csf\Exam\obj\Debug\VBD02.exe
+C:\ANS.csf\Exam\obj\Debug\VBD02.xml
+C:\ANS.csf\Exam\obj\Debug\VBD02.pdb
+C:\ANS.csf\Exam\bin\Debug\VBD02.exe
+C:\ANS.csf\Exam\bin\Debug\VBD02.pdb
+C:\ANS.csf\Exam\bin\Debug\VBD02.xml
+C:\ANS.csf\Exam\obj\Debug\ResolveAssemblyReference.cache
+C:\ANS.csf\Exam\obj\Debug\VBD02.Form1.resources
+C:\ANS.csf\Exam\obj\Debug\VBD02.Resources.resources
+C:\ANS.csf\Exam\obj\Debug\VBD02.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\204\Exam\obj\Debug\VBD02.exe
+C:\Documents and Settings\Administrator\桌面\204\Exam\obj\Debug\VBD02.xml
+C:\Documents and Settings\Administrator\桌面\204\Exam\obj\Debug\VBD02.pdb

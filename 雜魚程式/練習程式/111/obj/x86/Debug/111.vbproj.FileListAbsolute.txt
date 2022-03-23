@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\bin\Debug\111.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\bin\Debug\111.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\bin\Debug\111.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\_111.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\_111.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\111.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\111.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\111\obj\x86\Debug\111.pdb
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\111.exe
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\111.xml
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\111.pdb
+D:\程式設計\111\obj\x86\Debug\111.exe
+D:\程式設計\111\obj\x86\Debug\111.xml
+D:\程式設計\111\obj\x86\Debug\111.pdb
+C:\Documents and Settings\Administrator\桌面\111\bin\Debug\111.exe
+C:\Documents and Settings\Administrator\桌面\111\bin\Debug\111.pdb
+C:\Documents and Settings\Administrator\桌面\111\bin\Debug\111.xml
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\_111.Form1.resources
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\_111.Resources.resources
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\111\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式設計\練習程式\111\obj\x86\Debug\111.exe
+D:\程式設計\練習程式\111\obj\x86\Debug\111.xml
+D:\程式設計\練習程式\111\obj\x86\Debug\111.pdb
+D:\程式設計\練習程式\111\bin\Debug\111.exe
+D:\程式設計\練習程式\111\bin\Debug\111.pdb
+D:\程式設計\練習程式\111\bin\Debug\111.xml
+D:\程式設計\練習程式\111\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\練習程式\111\obj\x86\Debug\_111.Form1.resources
+D:\程式設計\練習程式\111\obj\x86\Debug\_111.Resources.resources
+D:\程式設計\練習程式\111\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\練習程式\111\obj\x86\Debug\GenerateResource.write.1.tlog

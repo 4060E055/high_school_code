@@ -1,0 +1,13 @@
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\bin\Debug\輸入成績((無回圈.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\bin\Debug\輸入成績((無回圈.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\bin\Debug\輸入成績((無回圈.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\_15.Form1.resources
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\_15.Resources.resources
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.pdb
+D:\程式設計\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.exe
+D:\程式設計\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.xml
+D:\程式設計\新資料夾\輸入成績((無回圈\obj\Debug\輸入成績((無回圈.pdb

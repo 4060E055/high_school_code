@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\桌面\94_6\bin\Debug\94_6.exe
+C:\Documents and Settings\Administrator\桌面\94_6\bin\Debug\94_6.pdb
+C:\Documents and Settings\Administrator\桌面\94_6\bin\Debug\94_6.xml
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\_94_6.Form1.resources
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\_94_6.Resources.resources
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\94_6.exe
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\94_6.xml
+C:\Documents and Settings\Administrator\桌面\94_6\obj\x86\Debug\94_6.pdb
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\94_6.exe
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\94_6.xml
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\94_6.pdb
+F:\程式設計\94比賽試題(225-余若榛)\94_6\bin\Debug\94_6.exe
+F:\程式設計\94比賽試題(225-余若榛)\94_6\bin\Debug\94_6.pdb
+F:\程式設計\94比賽試題(225-余若榛)\94_6\bin\Debug\94_6.xml
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\_94_6.Form1.resources
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\_94_6.Resources.resources
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\94比賽試題(225-余若榛)\94_6\obj\x86\Debug\GenerateResource.write.1.tlog

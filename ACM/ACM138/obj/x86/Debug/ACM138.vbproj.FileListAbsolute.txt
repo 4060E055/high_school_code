@@ -1,0 +1,22 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\bin\Debug\ACM138.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\bin\Debug\ACM138.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\bin\Debug\ACM138.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\ACM138.Form1.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\ACM138.Resources.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\ACM138.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\ACM138.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM138\obj\x86\Debug\ACM138.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\ACM138.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\ACM138.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\ACM138.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM138\bin\Debug\ACM138.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM138\bin\Debug\ACM138.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM138\bin\Debug\ACM138.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\ACM138.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\ACM138.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM138\obj\x86\Debug\GenerateResource.write.1.tlog

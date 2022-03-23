@@ -1,0 +1,42 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\_1313.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\_1313.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\1313.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\bin\Debug\1313.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\bin\Debug\1313.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\bin\Debug\1313.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\1313.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\1313.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\1313\obj\Debug\1313.pdb
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\1313.exe
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\1313.xml
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\1313.pdb
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\bin\Debug\1313.exe
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\bin\Debug\1313.pdb
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\bin\Debug\1313.xml
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\_1313.Form1.resources
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\_1313.Resources.resources
+C:\Documents and Settings\YUDA\桌面\計算質數\1313\obj\Debug\1313.vbproj.GenerateResource.Cache
+D:\程式設計\計算質數\1313\obj\Debug\1313.exe
+D:\程式設計\計算質數\1313\obj\Debug\1313.xml
+D:\程式設計\計算質數\1313\obj\Debug\1313.pdb
+D:\程式設計\計算質數\1313\bin\Debug\1313.exe
+D:\程式設計\計算質數\1313\bin\Debug\1313.pdb
+D:\程式設計\計算質數\1313\bin\Debug\1313.xml
+D:\程式設計\計算質數\1313\obj\Debug\ResolveAssemblyReference.cache
+D:\程式設計\計算質數\1313\obj\Debug\_1313.Form1.resources
+D:\程式設計\計算質數\1313\obj\Debug\_1313.Resources.resources
+E:\程式設計\計算質數\1313\obj\Debug\1313.xml
+E:\程式設計\計算質數\1313\obj\Debug\1313.pdb
+E:\程式設計\計算質數\1313\bin\Debug\1313.exe
+E:\程式設計\計算質數\1313\bin\Debug\1313.pdb
+E:\程式設計\計算質數\1313\bin\Debug\1313.xml
+E:\程式設計\計算質數\1313\obj\Debug\ResolveAssemblyReference.cache
+E:\程式設計\計算質數\1313\obj\Debug\_1313.Form1.resources
+E:\程式設計\計算質數\1313\obj\Debug\_1313.Resources.resources
+E:\程式設計\計算質數\1313\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\程式設計\計算質數\1313\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\程式設計\計算質數\1313\obj\Debug\1313.exe
+D:\程式設計\計算質數\1313\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\程式設計\計算質數\1313\obj\Debug\GenerateResource-ResGen.write.1.tlog

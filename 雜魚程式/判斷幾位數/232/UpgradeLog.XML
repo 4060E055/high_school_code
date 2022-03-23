@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="232">
+</Property><Property Name="方案檔" Value="F:\影像\課業學習\程式設計\程式\判斷幾位數\232\232.sln">
+</Property><Property Name="Date" Value="2012年5月14日">
+</Property><Property Name="Time" Value="下午 22:00">
+</Property></Properties><Event ErrorLevel="0" Project="232" Source="232.vbproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="232" Source="232.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="232.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="232.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="232" Source="232.vbproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

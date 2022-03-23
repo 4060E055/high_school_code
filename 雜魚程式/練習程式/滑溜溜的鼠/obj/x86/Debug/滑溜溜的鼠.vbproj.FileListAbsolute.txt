@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.pdb
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.exe
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.xml
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.pdb
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.exe
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.pdb
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.xml
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.Form1.resources
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.Resources.resources
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\滑溜溜的鼠\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.exe
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.xml
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.pdb
+D:\程式設計\練習程式\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.exe
+D:\程式設計\練習程式\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.pdb
+D:\程式設計\練習程式\滑溜溜的鼠\bin\Debug\滑溜溜的鼠.xml
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.Form1.resources
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\滑溜溜的鼠.Resources.resources
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\練習程式\滑溜溜的鼠\obj\x86\Debug\GenerateResource.write.1.tlog

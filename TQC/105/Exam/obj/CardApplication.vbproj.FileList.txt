@@ -1,0 +1,10 @@
+bin\Debug\CardApplication.exe
+bin\Debug\CardApplication.pdb
+bin\Debug\CardApplication.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CardApplication.Form1.resources
+obj\Debug\CardApplication.Resources.resources
+obj\Debug\CardApplication.vbproj.GenerateResource.Cache
+obj\Debug\CardApplication.exe
+obj\Debug\CardApplication.xml
+obj\Debug\CardApplication.pdb

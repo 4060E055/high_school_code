@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\bin\Debug\作7.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\bin\Debug\作7.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\bin\Debug\作7.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\作7.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\作7.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\作7.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\作7.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作7\obj\x86\Debug\作7.pdb
+C:\Documents and Settings\Administrator\桌面\作7\obj\x86\Debug\作7.exe
+C:\Documents and Settings\Administrator\桌面\作7\obj\x86\Debug\作7.xml
+C:\Documents and Settings\Administrator\桌面\作7\obj\x86\Debug\作7.pdb
+E:\程式設計\作\作7\obj\x86\Debug\作7.exe
+E:\程式設計\作\作7\obj\x86\Debug\作7.xml
+E:\程式設計\作\作7\obj\x86\Debug\作7.pdb
+E:\程式設計\作\作7\bin\Debug\作7.exe
+E:\程式設計\作\作7\bin\Debug\作7.pdb
+E:\程式設計\作\作7\bin\Debug\作7.xml
+E:\程式設計\作\作7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\作\作7\obj\x86\Debug\作7.Form1.resources
+E:\程式設計\作\作7\obj\x86\Debug\作7.Resources.resources
+E:\程式設計\作\作7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\作\作7\obj\x86\Debug\GenerateResource.write.1.tlog

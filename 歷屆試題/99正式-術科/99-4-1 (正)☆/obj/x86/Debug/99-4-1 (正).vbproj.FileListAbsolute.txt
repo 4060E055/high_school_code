@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\bin\Debug\99-4-1 (正).exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\bin\Debug\99-4-1 (正).pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\bin\Debug\99-4-1 (正).xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\_99_4_1__正_.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\_99_4_1__正_.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\99-4-1 (正).exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\99-4-1 (正).xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\99-4-1 (正)\obj\x86\Debug\99-4-1 (正).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\99-4-1 (正).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\99-4-1 (正).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\99-4-1 (正).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\bin\Debug\99-4-1 (正).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\bin\Debug\99-4-1 (正).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\bin\Debug\99-4-1 (正).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\_99_4_1__正_.Form1.resources
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\_99_4_1__正_.Resources.resources
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\歷屆試題\99正式-術科\99-4-1 (正)\obj\x86\Debug\GenerateResource.write.1.tlog

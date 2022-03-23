@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\bin\Debug\考試-6.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\bin\Debug\考試-6.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\bin\Debug\考試-6.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\考試_6.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\考試_6.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\考試-6.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\考試-6.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\考試-6\obj\x86\Debug\考試-6.pdb
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\考試-6.exe
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\考試-6.xml
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\考試-6.pdb
+C:\Documents and Settings\Administrator\桌面\考試-6\bin\Debug\考試-6.exe
+C:\Documents and Settings\Administrator\桌面\考試-6\bin\Debug\考試-6.pdb
+C:\Documents and Settings\Administrator\桌面\考試-6\bin\Debug\考試-6.xml
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\考試_6.Form1.resources
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\考試_6.Resources.resources
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-6\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\考試\考試-6\obj\x86\Debug\考試-6.exe
+D:\考試\考試-6\obj\x86\Debug\考試-6.xml
+D:\考試\考試-6\obj\x86\Debug\考試-6.pdb
+E:\考試\考試-6\obj\x86\Debug\考試-6.exe
+E:\考試\考試-6\obj\x86\Debug\考試-6.xml
+E:\考試\考試-6\obj\x86\Debug\考試-6.pdb
+E:\考試\考試-6\bin\Debug\考試-6.exe
+E:\考試\考試-6\bin\Debug\考試-6.pdb
+E:\考試\考試-6\bin\Debug\考試-6.xml
+E:\考試\考試-6\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\考試\考試-6\obj\x86\Debug\考試_6.Form1.resources
+E:\考試\考試-6\obj\x86\Debug\考試_6.Resources.resources
+E:\考試\考試-6\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\考試\考試-6\obj\x86\Debug\GenerateResource.write.1.tlog

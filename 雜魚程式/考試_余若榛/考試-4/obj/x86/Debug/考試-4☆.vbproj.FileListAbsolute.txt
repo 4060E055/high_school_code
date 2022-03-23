@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\考試-4☆\bin\Debug\考試-4☆.exe
+C:\Documents and Settings\Administrator\桌面\考試-4☆\bin\Debug\考試-4☆.pdb
+C:\Documents and Settings\Administrator\桌面\考試-4☆\bin\Debug\考試-4☆.xml
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\考試_4.Form1.resources
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\考試_4.Resources.resources
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\考試-4☆.exe
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\考試-4☆.xml
+C:\Documents and Settings\Administrator\桌面\考試-4☆\obj\x86\Debug\考試-4☆.pdb
+D:\程式設計\考試\考試-4\obj\x86\Debug\考試-4☆.exe
+D:\程式設計\考試\考試-4\obj\x86\Debug\考試-4☆.xml
+D:\程式設計\考試\考試-4\obj\x86\Debug\考試-4☆.pdb
+F:\程式設計\考試\考試-4\obj\x86\Debug\考試-4☆.exe
+F:\程式設計\考試\考試-4\obj\x86\Debug\考試-4☆.xml
+F:\程式設計\考試\考試-4\obj\x86\Debug\考試-4☆.pdb
+F:\程式設計\考試\考試-4\bin\Debug\考試-4☆.exe
+F:\程式設計\考試\考試-4\bin\Debug\考試-4☆.pdb
+F:\程式設計\考試\考試-4\bin\Debug\考試-4☆.xml
+F:\程式設計\考試\考試-4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\考試\考試-4\obj\x86\Debug\考試_4.Form1.resources
+F:\程式設計\考試\考試-4\obj\x86\Debug\考試_4.Resources.resources
+F:\程式設計\考試\考試-4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\考試\考試-4\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\考試\考試-4\obj\x86\Debug\考試-4☆.exe
+E:\考試\考試-4\obj\x86\Debug\考試-4☆.xml
+E:\考試\考試-4\obj\x86\Debug\考試-4☆.pdb
+E:\考試\考試-4\bin\Debug\考試-4☆.exe
+E:\考試\考試-4\bin\Debug\考試-4☆.pdb
+E:\考試\考試-4\bin\Debug\考試-4☆.xml
+E:\考試\考試-4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\考試\考試-4\obj\x86\Debug\考試_4.Form1.resources
+E:\考試\考試-4\obj\x86\Debug\考試_4.Resources.resources
+E:\考試\考試-4\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\考試\考試-4\obj\x86\Debug\GenerateResource.write.1.tlog

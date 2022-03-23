@@ -1,0 +1,17 @@
+H:\程式設計\比賽試題\相關係數6☆\bin\Debug\相關係數.exe
+H:\程式設計\比賽試題\相關係數6☆\bin\Debug\相關係數.pdb
+H:\程式設計\比賽試題\相關係數6☆\bin\Debug\相關係數.xml
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.Form1.resources
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.Resources.resources
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.exe
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.xml
+H:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.pdb
+G:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.exe
+G:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.xml
+G:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.pdb
+E:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.exe
+E:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.xml
+E:\程式設計\比賽試題\相關係數6☆\obj\x86\Debug\相關係數.pdb

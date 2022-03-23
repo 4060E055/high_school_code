@@ -1,0 +1,10 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\_15.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\_15.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\15.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\bin\Debug\15.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\bin\Debug\15.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\bin\Debug\15.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\15.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\15.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\15\obj\Debug\15.pdb

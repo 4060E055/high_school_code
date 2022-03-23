@@ -1,0 +1,39 @@
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\VBD01.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\VBD01.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\VBD01.pdb
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\bin\Debug\VBD01.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\bin\Debug\VBD01.pdb
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\bin\Debug\VBD01.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\ResolveAssemblyReference.cache
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\VBD01.Form1.resources
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\VBD01.Resources.resources
+D:\VB2005_交接光碟資料\開發試題\開發中試題\洪寶環\0320\MVB-0001-洪寶環960302\MVB-1001\Exam\VBD01\obj\Debug\VBD01.vbproj.GenerateResource.Cache
+D:\VB2008\外測\VB2008 陳彥錚老師外測題目\術科\MVB-0002\Exam\VBD01\obj\Debug\VBD01.exe
+D:\VB2008\外測\VB2008 陳彥錚老師外測題目\術科\MVB-0002\Exam\VBD01\obj\Debug\VBD01.xml
+D:\VB2008\外測\VB2008 陳彥錚老師外測題目\術科\MVB-0002\Exam\VBD01\obj\Debug\VBD01.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科\第9回合\待編修檔\VBD01\obj\Debug\VBD01.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第9回合\待編修檔\VBD01\obj\Debug\VBD01.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第9回合\待編修檔\VBD01\obj\Debug\VBD01.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\VBD01.exe
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\VBD01.xml
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\VBD01.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\bin\Debug\VBD01.exe
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\bin\Debug\VBD01.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\bin\Debug\VBD01.xml
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\VBD01.Form1.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\VBD01.Resources.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第九回合\VBD01\obj\Debug\VBD01.vbproj.GenerateResource.Cache
+C:\ANS.csf\Exam\obj\Debug\VBD01.exe
+C:\ANS.csf\Exam\obj\Debug\VBD01.xml
+C:\ANS.csf\Exam\obj\Debug\VBD01.pdb
+C:\ANS.csf\Exam\bin\Debug\VBD01.exe
+C:\ANS.csf\Exam\bin\Debug\VBD01.pdb
+C:\ANS.csf\Exam\bin\Debug\VBD01.xml
+C:\ANS.csf\Exam\obj\Debug\ResolveAssemblyReference.cache
+C:\ANS.csf\Exam\obj\Debug\VBD01.Form1.resources
+C:\ANS.csf\Exam\obj\Debug\VBD01.Resources.resources
+C:\ANS.csf\Exam\obj\Debug\VBD01.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\TQC\109\Exam\obj\Debug\VBD01.exe
+C:\Documents and Settings\Administrator\桌面\TQC\109\Exam\obj\Debug\VBD01.xml
+C:\Documents and Settings\Administrator\桌面\TQC\109\Exam\obj\Debug\VBD01.pdb

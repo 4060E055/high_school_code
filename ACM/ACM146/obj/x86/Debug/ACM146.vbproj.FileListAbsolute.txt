@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\桌面\ACM146\bin\Debug\ACM146.exe
+C:\Documents and Settings\Administrator\桌面\ACM146\bin\Debug\ACM146.pdb
+C:\Documents and Settings\Administrator\桌面\ACM146\bin\Debug\ACM146.xml
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\ACM146.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\ACM146.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\ACM146.exe
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\ACM146.xml
+C:\Documents and Settings\Administrator\桌面\ACM146\obj\x86\Debug\ACM146.pdb
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\ACM146.exe
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\ACM146.xml
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\ACM146.pdb
+C:\Documents and Settings\000\桌面\ACM146\bin\Debug\ACM146.exe
+C:\Documents and Settings\000\桌面\ACM146\bin\Debug\ACM146.pdb
+C:\Documents and Settings\000\桌面\ACM146\bin\Debug\ACM146.xml
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\ACM146.Form1.resources
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\ACM146.Resources.resources
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\000\桌面\ACM146\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ACM\ACM146\obj\x86\Debug\ACM146.exe
+F:\ACM\ACM146\obj\x86\Debug\ACM146.xml
+F:\ACM\ACM146\obj\x86\Debug\ACM146.pdb

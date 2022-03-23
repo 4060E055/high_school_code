@@ -1,0 +1,14 @@
+C:\Documents and Settings\admin\桌面\ACM\ACM113\bin\Debug\ACM113.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM113\bin\Debug\ACM113.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM113\bin\Debug\ACM113.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\ACM113.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\ACM113.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\ACM113.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\ACM113.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM113\obj\x86\Debug\ACM113.pdb
+H:\ACM\ACM113\obj\x86\Debug\ACM113.exe
+H:\ACM\ACM113\obj\x86\Debug\ACM113.xml
+H:\ACM\ACM113\obj\x86\Debug\ACM113.pdb

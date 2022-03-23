@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\桌面\16題_5\bin\Debug\16題_5.exe
+C:\Documents and Settings\Administrator\桌面\16題_5\bin\Debug\16題_5.pdb
+C:\Documents and Settings\Administrator\桌面\16題_5\bin\Debug\16題_5.xml
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\_16題_5.Form1.resources
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\_16題_5.Resources.resources
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\16題_5.exe
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\16題_5.xml
+C:\Documents and Settings\Administrator\桌面\16題_5\obj\x86\Debug\16題_5.pdb

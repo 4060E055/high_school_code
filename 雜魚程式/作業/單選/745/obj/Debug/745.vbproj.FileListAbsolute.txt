@@ -1,0 +1,10 @@
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\_745.K1.resources
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\_745.Resources.resources
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\745.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\桌面\745\745\bin\Debug\745.exe
+C:\Documents and Settings\YUDA\桌面\745\745\bin\Debug\745.pdb
+C:\Documents and Settings\YUDA\桌面\745\745\bin\Debug\745.xml
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\745.exe
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\745.xml
+C:\Documents and Settings\YUDA\桌面\745\745\obj\Debug\745.pdb

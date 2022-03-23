@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\92\Q2\bin\Debug\Q2.exe
+C:\Documents and Settings\Administrator\桌面\92\Q2\bin\Debug\Q2.pdb
+C:\Documents and Settings\Administrator\桌面\92\Q2\bin\Debug\Q2.xml
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\Q2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\Q2.Resources.resources
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\Q2.exe
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\Q2.xml
+C:\Documents and Settings\Administrator\桌面\92\Q2\obj\x86\Debug\Q2.pdb
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\Q2.exe
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\Q2.xml
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\Q2.pdb
+C:\Documents and Settings\AQUA\桌面\92\Q2\bin\Debug\Q2.exe
+C:\Documents and Settings\AQUA\桌面\92\Q2\bin\Debug\Q2.pdb
+C:\Documents and Settings\AQUA\桌面\92\Q2\bin\Debug\Q2.xml
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\Q2.Form1.resources
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\Q2.Resources.resources
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AQUA\桌面\92\Q2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\92\Q2\obj\x86\Debug\Q2.exe
+F:\程式設計\92\Q2\obj\x86\Debug\Q2.xml
+F:\程式設計\92\Q2\obj\x86\Debug\Q2.pdb
+F:\程式設計\92\Q2\bin\Debug\Q2.exe
+F:\程式設計\92\Q2\bin\Debug\Q2.pdb
+F:\程式設計\92\Q2\bin\Debug\Q2.xml
+F:\程式設計\92\Q2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\92\Q2\obj\x86\Debug\Q2.Form1.resources
+F:\程式設計\92\Q2\obj\x86\Debug\Q2.Resources.resources
+F:\程式設計\92\Q2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\92\Q2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q2\obj\x86\Debug\Q2.exe
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q2\obj\x86\Debug\Q2.xml
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q2\obj\x86\Debug\Q2.pdb

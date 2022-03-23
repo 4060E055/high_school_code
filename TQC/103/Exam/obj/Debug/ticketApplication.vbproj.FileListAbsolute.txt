@@ -1,0 +1,19 @@
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\p1-1-Application.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.pdb
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.exe
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\p1-1-Application.xml
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.pdb
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\bin\Debug\ticketApplication.exe
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\bin\Debug\ticketApplication.pdb
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\bin\Debug\p1-1-Application.xml
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.Form1.resources
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.Resources.resources
+D:\VB2008\陳彥錚\術科\MVB-0001\Exam\VBD01\ticketApplication\obj\Debug\ticketApplication.vbproj.GenerateResource.Cache
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD01\ticketApplication\obj\Debug\ticketApplication.exe
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD01\ticketApplication\obj\Debug\p1-1-Application.xml
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD01\ticketApplication\obj\Debug\ticketApplication.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD01\ticketApplication\obj\Debug\ticketApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD01\ticketApplication\obj\Debug\p1-1-Application.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD01\ticketApplication\obj\Debug\ticketApplication.pdb

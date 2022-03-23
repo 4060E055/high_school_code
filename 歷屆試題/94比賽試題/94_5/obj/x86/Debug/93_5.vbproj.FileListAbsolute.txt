@@ -1,0 +1,19 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\93_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\93_5\obj\x86\Debug\_93_5.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\93_5\obj\x86\Debug\_93_5.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\93_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\93_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\93_5\bin\Debug\93_5.exe
+C:\Documents and Settings\Administrator\桌面\93_5\bin\Debug\93_5.pdb
+C:\Documents and Settings\Administrator\桌面\93_5\bin\Debug\93_5.xml
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\_93_5.Form1.resources
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\_93_5.Resources.resources
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\93_5.exe
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\93_5.xml
+C:\Documents and Settings\Administrator\桌面\93_5\obj\x86\Debug\93_5.pdb
+C:\Documents and Settings\Administrator\桌面\94比賽試題(225-余若榛)\94_5\obj\x86\Debug\93_5.exe
+C:\Documents and Settings\Administrator\桌面\94比賽試題(225-余若榛)\94_5\obj\x86\Debug\93_5.xml
+C:\Documents and Settings\Administrator\桌面\94比賽試題(225-余若榛)\94_5\obj\x86\Debug\93_5.pdb

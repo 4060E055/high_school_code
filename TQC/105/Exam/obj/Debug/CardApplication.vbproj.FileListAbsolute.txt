@@ -1,0 +1,13 @@
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\CardApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\CardApplication.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\CardApplication.pdb
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\bin\Debug\CardApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\bin\Debug\CardApplication.pdb
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\bin\Debug\CardApplication.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\CardApplication.Form1.resources
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\CardApplication.Resources.resources
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD01\CardApplication\obj\Debug\CardApplication.vbproj.GenerateResource.Cache
+D:\VB2008\陳彥錚\術科\MVB-0003\Test\VBD01\CardApplication\obj\Debug\CardApplication.exe
+D:\VB2008\陳彥錚\術科\MVB-0003\Test\VBD01\CardApplication\obj\Debug\CardApplication.xml
+D:\VB2008\陳彥錚\術科\MVB-0003\Test\VBD01\CardApplication\obj\Debug\CardApplication.pdb

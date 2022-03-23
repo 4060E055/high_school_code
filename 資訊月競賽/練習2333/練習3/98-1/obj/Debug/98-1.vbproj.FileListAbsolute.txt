@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\bin\Debug\98-1.exe
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\bin\Debug\98-1.pdb
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\bin\Debug\98-1.xml
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\_98_1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\_98_1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\98-1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\98-1.exe
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\98-1.xml
+C:\Documents and Settings\Administrator\桌面\練習3\98-1\obj\Debug\98-1.pdb

@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\bin\Debug\16題_7.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\bin\Debug\16題_7.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\bin\Debug\16題_7.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\_16題_7.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\_16題_7.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\16題_7.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\16題_7.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\16題_7\obj\x86\Debug\16題_7.pdb
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\16題_7.exe
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\16題_7.xml
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\16題_7.pdb
+C:\Documents and Settings\Administrator\桌面\16題_7\bin\Debug\16題_7.exe
+C:\Documents and Settings\Administrator\桌面\16題_7\bin\Debug\16題_7.pdb
+C:\Documents and Settings\Administrator\桌面\16題_7\bin\Debug\16題_7.xml
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\_16題_7.Form1.resources
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\_16題_7.Resources.resources
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_7\obj\x86\Debug\GenerateResource.write.1.tlog

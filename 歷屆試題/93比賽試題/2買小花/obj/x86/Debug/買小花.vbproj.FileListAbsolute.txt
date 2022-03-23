@@ -1,0 +1,48 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\bin\Debug\買小花.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\bin\Debug\買小花.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\bin\Debug\買小花.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\買小花.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\買小花.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\買小花.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\買小花.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\買小花\obj\x86\Debug\買小花.pdb
+C:\Documents and Settings\Administrator\桌面\買小花\obj\x86\Debug\買小花.exe
+C:\Documents and Settings\Administrator\桌面\買小花\obj\x86\Debug\買小花.xml
+C:\Documents and Settings\Administrator\桌面\買小花\obj\x86\Debug\買小花.pdb
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.exe
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.xml
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.pdb
+E:\程式設計\比賽試題\買小花2\bin\Debug\買小花.exe
+E:\程式設計\比賽試題\買小花2\bin\Debug\買小花.pdb
+E:\程式設計\比賽試題\買小花2\bin\Debug\買小花.xml
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.Form1.resources
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.Resources.resources
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\比賽試題\買小花2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.exe
+D:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.xml
+D:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.pdb
+G:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.exe
+G:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.xml
+G:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.pdb
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.exe
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.xml
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.pdb
+F:\程式設計\比賽試題\買小花2\bin\Debug\買小花.exe
+F:\程式設計\比賽試題\買小花2\bin\Debug\買小花.pdb
+F:\程式設計\比賽試題\買小花2\bin\Debug\買小花.xml
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.Form1.resources
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\買小花.Resources.resources
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\比賽試題\買小花2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\比賽試題2\2買小花\obj\x86\Debug\買小花.exe
+F:\程式設計\比賽試題2\2買小花\obj\x86\Debug\買小花.xml
+F:\程式設計\比賽試題2\2買小花\obj\x86\Debug\買小花.pdb
+C:\Documents and Settings\Administrator\桌面\93比賽試題\2買小花\obj\x86\Debug\買小花.exe
+C:\Documents and Settings\Administrator\桌面\93比賽試題\2買小花\obj\x86\Debug\買小花.xml
+C:\Documents and Settings\Administrator\桌面\93比賽試題\2買小花\obj\x86\Debug\買小花.pdb

@@ -1,0 +1,23 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\bin\Debug\收銀櫃.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\bin\Debug\收銀櫃.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\bin\Debug\收銀櫃.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\收銀櫃.F3.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\收銀櫃.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\收銀櫃.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\收銀櫃.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\收銀櫃.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\收銀櫃\obj\Debug\收銀櫃.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\bin\Debug\收銀櫃.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\bin\Debug\收銀櫃.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\bin\Debug\收銀櫃.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.F3.resources
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.Resources.resources
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.vbproj.GenerateResource.Cache
+D:\程式設計\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.exe
+D:\程式設計\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.xml
+D:\程式設計\作業\3-收銀櫃\收銀櫃\obj\Debug\收銀櫃.pdb

@@ -1,0 +1,11 @@
+obj\Debug\ViewFilesApplication.exe
+obj\Debug\ViewFilesApplication.xml
+obj\Debug\ViewFilesApplication.pdb
+bin\Debug\ViewFilesApplication.exe
+bin\Debug\ViewFilesApplication.pdb
+bin\Debug\ViewFilesApplication.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ViewFilesApplication.Form1.resources
+obj\Debug\ViewFilesApplication.Form2.resources
+obj\Debug\ViewFilesApplication.Resources.resources
+obj\Debug\ViewFilesApplication.vbproj.GenerateResource.Cache

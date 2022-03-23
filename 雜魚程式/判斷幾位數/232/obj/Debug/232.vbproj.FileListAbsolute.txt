@@ -1,0 +1,31 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\bin\Debug\232.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\bin\Debug\232.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\bin\Debug\232.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\_232.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\_232.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\232.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\232.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\232.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\232\obj\Debug\232.pdb
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\232.exe
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\232.xml
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\232.pdb
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\bin\Debug\232.exe
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\bin\Debug\232.pdb
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\bin\Debug\232.xml
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\_232.Form1.resources
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\_232.Resources.resources
+C:\Documents and Settings\YUDA\桌面\判斷幾位數\232\obj\Debug\232.vbproj.GenerateResource.Cache
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\232.xml
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\232.pdb
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\bin\Debug\232.exe
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\bin\Debug\232.pdb
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\bin\Debug\232.xml
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\ResolveAssemblyReference.cache
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\_232.Form1.resources
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\_232.Resources.resources
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\影像\課業學習\程式設計\程式\判斷幾位數\232\obj\Debug\232.exe

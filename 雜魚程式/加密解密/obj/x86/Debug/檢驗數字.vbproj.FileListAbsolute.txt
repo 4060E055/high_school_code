@@ -1,0 +1,66 @@
+C:\Documents and Settings\Administrator\桌面\檢驗數字\bin\Debug\檢驗數字.exe
+C:\Documents and Settings\Administrator\桌面\檢驗數字\bin\Debug\檢驗數字.pdb
+C:\Documents and Settings\Administrator\桌面\檢驗數字\bin\Debug\檢驗數字.xml
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\檢驗數字.Form1.resources
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\檢驗數字.Resources.resources
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\檢驗數字.exe
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\檢驗數字.xml
+C:\Documents and Settings\Administrator\桌面\檢驗數字\obj\x86\Debug\檢驗數字.pdb
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.exe
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.xml
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.pdb
+D:\程式設計\比賽試題\檢驗數字\bin\Debug\檢驗數字.exe
+D:\程式設計\比賽試題\檢驗數字\bin\Debug\檢驗數字.pdb
+D:\程式設計\比賽試題\檢驗數字\bin\Debug\檢驗數字.xml
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.Form1.resources
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.Resources.resources
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.exe
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.xml
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.pdb
+E:\程式設計\比賽試題\檢驗數字\bin\Debug\檢驗數字.exe
+E:\程式設計\比賽試題\檢驗數字\bin\Debug\檢驗數字.pdb
+E:\程式設計\比賽試題\檢驗數字\bin\Debug\檢驗數字.xml
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.Form1.resources
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\檢驗數字.Resources.resources
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\比賽試題\檢驗數字\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\加密解密\obj\x86\Debug\檢驗數字.exe
+F:\程式設計\加密解密\obj\x86\Debug\檢驗數字.xml
+F:\程式設計\加密解密\obj\x86\Debug\檢驗數字.pdb
+F:\程式設計\加密解密\bin\Debug\檢驗數字.exe
+F:\程式設計\加密解密\bin\Debug\檢驗數字.pdb
+F:\程式設計\加密解密\bin\Debug\檢驗數字.xml
+F:\程式設計\加密解密\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\加密解密\obj\x86\Debug\檢驗數字.Form1.resources
+F:\程式設計\加密解密\obj\x86\Debug\檢驗數字.Resources.resources
+F:\程式設計\加密解密\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\加密解密\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式設計\加密解密\obj\x86\Debug\檢驗數字.exe
+D:\程式設計\加密解密\obj\x86\Debug\檢驗數字.xml
+D:\程式設計\加密解密\obj\x86\Debug\檢驗數字.pdb
+D:\程式設計\加密解密\bin\Debug\檢驗數字.exe
+D:\程式設計\加密解密\bin\Debug\檢驗數字.pdb
+D:\程式設計\加密解密\bin\Debug\檢驗數字.xml
+D:\程式設計\加密解密\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\加密解密\obj\x86\Debug\檢驗數字.Form1.resources
+D:\程式設計\加密解密\obj\x86\Debug\檢驗數字.Resources.resources
+D:\程式設計\加密解密\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\加密解密\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程式設計\加密解密\obj\x86\Debug\檢驗數字.exe
+E:\程式設計\加密解密\obj\x86\Debug\檢驗數字.xml
+E:\程式設計\加密解密\obj\x86\Debug\檢驗數字.pdb
+E:\程式設計\加密解密\bin\Debug\檢驗數字.exe
+E:\程式設計\加密解密\bin\Debug\檢驗數字.pdb
+E:\程式設計\加密解密\bin\Debug\檢驗數字.xml
+E:\程式設計\加密解密\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\加密解密\obj\x86\Debug\檢驗數字.Form1.resources
+E:\程式設計\加密解密\obj\x86\Debug\檢驗數字.Resources.resources
+E:\程式設計\加密解密\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\加密解密\obj\x86\Debug\GenerateResource.write.1.tlog

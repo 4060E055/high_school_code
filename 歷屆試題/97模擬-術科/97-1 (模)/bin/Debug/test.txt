@@ -1,0 +1,12 @@
+2
+This is a sample input.
+Hello World!!
+=====
+The speech by Hunyak, translated, is:
+"What am I doing here?
+They say, the famous Hungarian police,
+that I held down my husband and chopped off his head.
+
+But I didn't do it, I am not guilty.
+I can't believe that Uncle Sam says I did it.
+They say I didit, but really I didn't."

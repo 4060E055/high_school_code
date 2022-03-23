@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\桌面\ACM\ACM100\bin\Debug\ACM100.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM100\bin\Debug\ACM100.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM100\bin\Debug\ACM100.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\ACM100.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\ACM100.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\ACM100.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\ACM100.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM100\obj\x86\Debug\ACM100.pdb

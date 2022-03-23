@@ -1,0 +1,10 @@
+C:\Documents and Settings\XP\桌面\練習\99-2\bin\Debug\99-2.exe
+C:\Documents and Settings\XP\桌面\練習\99-2\bin\Debug\99-2.pdb
+C:\Documents and Settings\XP\桌面\練習\99-2\bin\Debug\99-2.xml
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\_99_2.Form1.resources
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\_99_2.Resources.resources
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\99-2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\99-2.exe
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\99-2.xml
+C:\Documents and Settings\XP\桌面\練習\99-2\obj\Debug\99-2.pdb

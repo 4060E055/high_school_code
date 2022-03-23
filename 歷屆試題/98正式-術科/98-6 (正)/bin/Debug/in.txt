@@ -1,0 +1,37 @@
+99
+too high
+1
+too low
+50
+too low
+98
+too high
+80
+too low
+90
+too low
+96
+right on
+33
+too low
+34
+too high
+33
+right on
+50
+too high
+10
+too low
+40
+too low
+45
+too high
+41
+too low
+42
+too low
+43
+too low
+44
+right on
+0

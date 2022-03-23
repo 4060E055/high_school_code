@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\桌面\Q3\bin\Debug\Q3.exe
+C:\Documents and Settings\Administrator\桌面\Q3\bin\Debug\Q3.pdb
+C:\Documents and Settings\Administrator\桌面\Q3\bin\Debug\Q3.xml
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\Q3.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\Q3.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\Q3.exe
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\Q3.xml
+C:\Documents and Settings\Administrator\桌面\Q3\obj\x86\Debug\Q3.pdb
+D:\程式設計\92\Q3\obj\x86\Debug\Q3.exe
+D:\程式設計\92\Q3\obj\x86\Debug\Q3.xml
+D:\程式設計\92\Q3\obj\x86\Debug\Q3.pdb
+F:\程式設計\92\Q3\obj\x86\Debug\Q3.exe
+F:\程式設計\92\Q3\obj\x86\Debug\Q3.xml
+F:\程式設計\92\Q3\obj\x86\Debug\Q3.pdb
+F:\程式設計\92\Q3\bin\Debug\Q3.exe
+F:\程式設計\92\Q3\bin\Debug\Q3.pdb
+F:\程式設計\92\Q3\bin\Debug\Q3.xml
+F:\程式設計\92\Q3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\92\Q3\obj\x86\Debug\Q3.Form1.resources
+F:\程式設計\92\Q3\obj\x86\Debug\Q3.Resources.resources
+F:\程式設計\92\Q3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\92\Q3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q3\obj\x86\Debug\Q3.exe
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q3\obj\x86\Debug\Q3.xml
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q3\obj\x86\Debug\Q3.pdb

@@ -1,0 +1,23 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\bin\Debug\411.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\bin\Debug\411.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\bin\Debug\411.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\_411.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\_411.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\411.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\411.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\411.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\411\obj\Debug\411.pdb
+C:\Documents and Settings\YUDA\桌面\計算找錢\411\obj\Debug\411.exe
+C:\Documents and Settings\YUDA\桌面\計算找錢\411\obj\Debug\411.xml
+C:\Documents and Settings\YUDA\桌面\計算找錢\411\obj\Debug\411.pdb
+D:\程式設計\計算找錢\411\obj\Debug\411.exe
+D:\程式設計\計算找錢\411\obj\Debug\411.xml
+D:\程式設計\計算找錢\411\obj\Debug\411.pdb
+D:\程式設計\計算找錢\411\bin\Debug\411.exe
+D:\程式設計\計算找錢\411\bin\Debug\411.pdb
+D:\程式設計\計算找錢\411\bin\Debug\411.xml
+D:\程式設計\計算找錢\411\obj\Debug\ResolveAssemblyReference.cache
+D:\程式設計\計算找錢\411\obj\Debug\_411.Form1.resources
+D:\程式設計\計算找錢\411\obj\Debug\_411.Resources.resources
+D:\程式設計\計算找錢\411\obj\Debug\411.vbproj.GenerateResource.Cache

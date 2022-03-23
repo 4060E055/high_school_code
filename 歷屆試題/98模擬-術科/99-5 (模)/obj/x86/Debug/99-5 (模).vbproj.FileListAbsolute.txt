@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\bin\Debug\99-5 (模).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\bin\Debug\99-5 (模).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\bin\Debug\99-5 (模).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\_99_5__模_.Form1.resources
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\_99_5__模_.Resources.resources
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\99-5 (模).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\99-5 (模).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\Problem5\99-5 (模)\obj\x86\Debug\99-5 (模).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\99-5 (模)\obj\x86\Debug\99-5 (模).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\99-5 (模)\obj\x86\Debug\99-5 (模).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98模擬-術科\99-5 (模)\obj\x86\Debug\99-5 (模).pdb

@@ -1,0 +1,14 @@
+C:\Documents and Settings\admin\桌面\100-4-2\bin\Debug\100-4-2.exe
+C:\Documents and Settings\admin\桌面\100-4-2\bin\Debug\100-4-2.pdb
+C:\Documents and Settings\admin\桌面\100-4-2\bin\Debug\100-4-2.xml
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\_100_4_2.Form1.resources
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\_100_4_2.Resources.resources
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\100-4-2.exe
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\100-4-2.xml
+C:\Documents and Settings\admin\桌面\100-4-2\obj\x86\Debug\100-4-2.pdb
+H:\程式設計\歷屆試題\100比賽試題\100-4-2\obj\x86\Debug\100-4-2.exe
+H:\程式設計\歷屆試題\100比賽試題\100-4-2\obj\x86\Debug\100-4-2.xml
+H:\程式設計\歷屆試題\100比賽試題\100-4-2\obj\x86\Debug\100-4-2.pdb

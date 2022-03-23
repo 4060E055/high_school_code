@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\桌面\作\bin\Debug\123.exe
+C:\Documents and Settings\Administrator\桌面\作\bin\Debug\123.pdb
+C:\Documents and Settings\Administrator\桌面\作\bin\Debug\123.xml
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\123.exe
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\123.xml
+C:\Documents and Settings\Administrator\桌面\作\obj\x86\Debug\123.pdb

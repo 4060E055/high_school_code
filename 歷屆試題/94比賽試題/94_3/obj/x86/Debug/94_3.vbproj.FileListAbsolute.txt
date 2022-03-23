@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\94_3\bin\Debug\94_3.exe
+C:\Documents and Settings\Administrator\桌面\94_3\bin\Debug\94_3.pdb
+C:\Documents and Settings\Administrator\桌面\94_3\bin\Debug\94_3.xml
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\_94_3.Form1.resources
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\_94_3.Resources.resources
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\94_3.exe
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\94_3.xml
+C:\Documents and Settings\Administrator\桌面\94_3\obj\x86\Debug\94_3.pdb
+D:\程式設計\94比賽試題(225-余若榛)\94_3\obj\x86\Debug\94_3.exe
+D:\程式設計\94比賽試題(225-余若榛)\94_3\obj\x86\Debug\94_3.xml
+D:\程式設計\94比賽試題(225-余若榛)\94_3\obj\x86\Debug\94_3.pdb
+C:\Documents and Settings\Administrator\桌面\94比賽試題(225-余若榛)\94_3\obj\x86\Debug\94_3.exe
+C:\Documents and Settings\Administrator\桌面\94比賽試題(225-余若榛)\94_3\obj\x86\Debug\94_3.xml
+C:\Documents and Settings\Administrator\桌面\94比賽試題(225-余若榛)\94_3\obj\x86\Debug\94_3.pdb

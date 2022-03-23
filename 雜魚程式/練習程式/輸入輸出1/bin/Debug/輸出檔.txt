@@ -1,0 +1,2 @@
+you input 10
+1-10 total=55

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="44">
+</Property><Property Name="方案檔" Value="F:\影像\程式設計\新資料夾\44\44.sln">
+</Property><Property Name="使用者選項檔" Value="F:\影像\程式設計\新資料夾\44\44.suo">
+</Property><Property Name="Date" Value="2011年9月9日">
+</Property><Property Name="Time" Value="下午 21:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="44.sln" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\44.sln">
+</Event><Event ErrorLevel="0" Project="" Source="44.suo" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\44.suo">
+</Event><Event ErrorLevel="0" Project="44" Source="44.vbproj" Description="專案檔已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\44.vbproj">
+</Event><Event ErrorLevel="0" Project="44" Source="44.vbproj.user" Description="專案使用者檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\44.vbproj.user">
+</Event><Event ErrorLevel="0" Project="44" Source="Form1.vb" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="44" Source="Form1.Designer.vb" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\AssemblyInfo.vb" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\Application.Designer.vb" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\Resources.Designer.vb" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\Settings.Designer.vb" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\Application.myapp" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\Settings.settings" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="44" Source="Form1.resx" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="44" Source="My Project\Resources.resx" Description="檔案已成功備份為 F:\影像\程式設計\新資料夾\44\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="44" Source="44.vbproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="44" Source="44.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="44.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="44.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="44" Source="44.vbproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

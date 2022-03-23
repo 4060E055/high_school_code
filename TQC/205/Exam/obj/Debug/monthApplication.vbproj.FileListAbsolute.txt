@@ -1,0 +1,20 @@
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\monthApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\monthApplication.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\monthApplication.pdb
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\bin\Debug\monthApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\bin\Debug\monthApplication.pdb
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\bin\Debug\monthApplication.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\WindowsApplication.Form1.resources
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\WindowsApplication.Resources.resources
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0003\Exam\VBD02\monthApplication\obj\Debug\monthApplication.vbproj.GenerateResource.Cache
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\monthApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\monthApplication.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\monthApplication.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\bin\Debug\monthApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\bin\Debug\monthApplication.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\bin\Debug\monthApplication.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\WindowsApplication.Form1.resources
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\WindowsApplication.Resources.resources
+C:\Documents and Settings\karen_tsai\桌面\術科\第5回合\待編修檔\VBD02\monthApplication\obj\Debug\monthApplication.vbproj.GenerateResource.Cache

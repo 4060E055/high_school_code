@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\bin\Debug\100-1.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\bin\Debug\100-1.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\bin\Debug\100-1.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\_100_1.Form1.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\_100_1.Resources.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\100-1.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\100-1.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\100-1\obj\x86\Debug\100-1.pdb

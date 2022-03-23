@@ -1,0 +1,13 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾 (2)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾 (2)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾 (2)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

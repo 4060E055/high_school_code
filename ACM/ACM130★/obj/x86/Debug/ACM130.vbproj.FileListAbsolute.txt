@@ -1,0 +1,36 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\bin\Debug\ACM130.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\bin\Debug\ACM130.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\bin\Debug\ACM130.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\ACM130.Form1.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\ACM130.Resources.resources
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\ACM130.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\ACM130.xml
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\ACM130\obj\x86\Debug\ACM130.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\ACM130.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\ACM130.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\ACM130.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM130\bin\Debug\ACM130.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM130\bin\Debug\ACM130.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM130\bin\Debug\ACM130.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\ACM130.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\ACM130.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM130\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\ACM130.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\ACM130.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\ACM130.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\bin\Debug\ACM130.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\bin\Debug\ACM130.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\bin\Debug\ACM130.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\ACM130.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\ACM130.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM130☆\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM130★\obj\x86\Debug\ACM130.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM130★\obj\x86\Debug\ACM130.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM130★\obj\x86\Debug\ACM130.pdb

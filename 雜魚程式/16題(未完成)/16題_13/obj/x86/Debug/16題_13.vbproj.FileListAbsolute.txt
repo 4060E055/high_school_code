@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\桌面\16題_13\bin\Debug\16題_13.exe
+C:\Documents and Settings\Administrator\桌面\16題_13\bin\Debug\16題_13.pdb
+C:\Documents and Settings\Administrator\桌面\16題_13\bin\Debug\16題_13.xml
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\_16題_13.Form1.resources
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\_16題_13.Resources.resources
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\16題_13.exe
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\16題_13.xml
+C:\Documents and Settings\Administrator\桌面\16題_13\obj\x86\Debug\16題_13.pdb
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\16題_13.exe
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\16題_13.xml
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\16題_13.pdb
+D:\程式設計\16題\16題_13☆\bin\Debug\16題_13.exe
+D:\程式設計\16題\16題_13☆\bin\Debug\16題_13.pdb
+D:\程式設計\16題\16題_13☆\bin\Debug\16題_13.xml
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\_16題_13.Form1.resources
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\_16題_13.Resources.resources
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\16題\16題_13☆\obj\x86\Debug\GenerateResource.write.1.tlog

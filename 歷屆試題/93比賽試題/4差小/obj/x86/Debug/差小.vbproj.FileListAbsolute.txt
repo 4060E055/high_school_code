@@ -1,0 +1,64 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\bin\Debug\差小.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\bin\Debug\差小.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\bin\Debug\差小.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\差小.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\差小.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\差小.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\差小.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\差小\obj\x86\Debug\差小.pdb
+C:\Documents and Settings\Administrator\桌面\差小\obj\x86\Debug\差小.exe
+C:\Documents and Settings\Administrator\桌面\差小\obj\x86\Debug\差小.xml
+C:\Documents and Settings\Administrator\桌面\差小\obj\x86\Debug\差小.pdb
+E:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.exe
+E:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.xml
+E:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.pdb
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.exe
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.xml
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.pdb
+D:\程式設計\比賽試題\差小4\bin\Debug\差小.exe
+D:\程式設計\比賽試題\差小4\bin\Debug\差小.pdb
+D:\程式設計\比賽試題\差小4\bin\Debug\差小.xml
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.Form1.resources
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.Resources.resources
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\比賽試題\差小4\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.exe
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.xml
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.pdb
+F:\程式設計\比賽試題\差小4\bin\Debug\差小.exe
+F:\程式設計\比賽試題\差小4\bin\Debug\差小.pdb
+F:\程式設計\比賽試題\差小4\bin\Debug\差小.xml
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.Form1.resources
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\差小.Resources.resources
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\比賽試題\差小4\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\比賽試題2\4差小\obj\x86\Debug\差小.exe
+F:\程式設計\比賽試題2\4差小\obj\x86\Debug\差小.xml
+F:\程式設計\比賽試題2\4差小\obj\x86\Debug\差小.pdb
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\差小.exe
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\差小.xml
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\差小.pdb
+D:\程式設計\93比賽試題\4差小\bin\Debug\差小.exe
+D:\程式設計\93比賽試題\4差小\bin\Debug\差小.pdb
+D:\程式設計\93比賽試題\4差小\bin\Debug\差小.xml
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\差小.Form1.resources
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\差小.Resources.resources
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\93比賽試題\4差小\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\差小.exe
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\差小.xml
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\差小.pdb
+C:\Documents and Settings\Administrator\桌面\4差小\bin\Debug\差小.exe
+C:\Documents and Settings\Administrator\桌面\4差小\bin\Debug\差小.pdb
+C:\Documents and Settings\Administrator\桌面\4差小\bin\Debug\差小.xml
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\差小.Form1.resources
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\差小.Resources.resources
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\4差小\obj\x86\Debug\GenerateResource.write.1.tlog

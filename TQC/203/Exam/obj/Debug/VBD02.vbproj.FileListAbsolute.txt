@@ -1,0 +1,28 @@
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\bin\Debug\VBD02.exe
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\bin\Debug\VBD02.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\bin\Debug\VBD02.xml
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.Form1.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.Form2.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.Resources.resources
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.vbproj.GenerateResource.Cache
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.exe
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.xml
+C:\Documents and Settings\karen_tsai\桌面\術科整理\待編修檔\第三回合\VBD02\obj\Debug\VBD02.pdb
+C:\ANS.csf\Exam\obj\Debug\VBD02.exe
+C:\ANS.csf\Exam\obj\Debug\VBD02.xml
+C:\ANS.csf\Exam\obj\Debug\VBD02.pdb
+C:\ANS.csf\Exam\bin\Debug\VBD02.exe
+C:\ANS.csf\Exam\bin\Debug\VBD02.pdb
+C:\ANS.csf\Exam\bin\Debug\VBD02.xml
+C:\ANS.csf\Exam\obj\Debug\ResolveAssemblyReference.cache
+C:\ANS.csf\Exam\obj\Debug\VBD02.Form1.resources
+C:\ANS.csf\Exam\obj\Debug\VBD02.Form2.resources
+C:\ANS.csf\Exam\obj\Debug\VBD02.Resources.resources
+C:\ANS.csf\Exam\obj\Debug\VBD02.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\203\Exam\obj\Debug\VBD02.exe
+C:\Documents and Settings\Administrator\桌面\203\Exam\obj\Debug\VBD02.xml
+C:\Documents and Settings\Administrator\桌面\203\Exam\obj\Debug\VBD02.pdb
+C:\Documents and Settings\Administrator\桌面\TQC\203\Exam\obj\Debug\VBD02.exe
+C:\Documents and Settings\Administrator\桌面\TQC\203\Exam\obj\Debug\VBD02.xml
+C:\Documents and Settings\Administrator\桌面\TQC\203\Exam\obj\Debug\VBD02.pdb

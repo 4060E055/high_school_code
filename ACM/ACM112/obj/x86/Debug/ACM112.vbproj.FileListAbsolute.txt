@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\桌面\ACM\ACM112\bin\Debug\ACM112.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM112\bin\Debug\ACM112.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM112\bin\Debug\ACM112.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\ACM112.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\ACM112.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\ACM112.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\ACM112.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM112\obj\x86\Debug\ACM112.pdb

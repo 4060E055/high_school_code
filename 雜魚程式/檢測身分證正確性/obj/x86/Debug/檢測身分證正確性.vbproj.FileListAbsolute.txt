@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\bin\Debug\檢測身分證正確性.exe
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\bin\Debug\檢測身分證正確性.pdb
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\bin\Debug\檢測身分證正確性.xml
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\_1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\_1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.exe
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.xml
+C:\Documents and Settings\Administrator\桌面\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.pdb
+E:\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.exe
+E:\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.xml
+E:\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.pdb
+E:\檢測身分證正確性\bin\Debug\檢測身分證正確性.exe
+E:\檢測身分證正確性\bin\Debug\檢測身分證正確性.pdb
+E:\檢測身分證正確性\bin\Debug\檢測身分證正確性.xml
+E:\檢測身分證正確性\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\檢測身分證正確性\obj\x86\Debug\_1.Form1.resources
+E:\檢測身分證正確性\obj\x86\Debug\_1.Resources.resources
+E:\檢測身分證正確性\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\檢測身分證正確性\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.exe
+D:\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.xml
+D:\檢測身分證正確性\obj\x86\Debug\檢測身分證正確性.pdb

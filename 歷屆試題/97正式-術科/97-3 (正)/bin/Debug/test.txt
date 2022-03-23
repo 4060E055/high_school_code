@@ -1,0 +1,17 @@
+Insert -65
+Insert 9
+Inquire 2
+Inquire 1
+Inquire 3
+Insert 101
+Insert -31
+Inquire 3
+Clean
+Inquire 1
+Insert 14
+Insert 23
+Inquire 1
+Insert -3
+Inquire 2
+Clean
+End

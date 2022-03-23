@@ -1,0 +1,50 @@
+C:\Documents and Settings\Administrator\桌面\考試-8\bin\Debug\考試-8.exe
+C:\Documents and Settings\Administrator\桌面\考試-8\bin\Debug\考試-8.pdb
+C:\Documents and Settings\Administrator\桌面\考試-8\bin\Debug\考試-8.xml
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\考試_8.Form1.resources
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\考試_8.Resources.resources
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\考試-8.exe
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\考試-8.xml
+C:\Documents and Settings\Administrator\桌面\考試-8\obj\x86\Debug\考試-8.pdb
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\考試-8.exe
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\考試-8.xml
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\考試-8.pdb
+C:\Documents and Settings\Administrator\桌面\考試-8☆\bin\Debug\考試-8.exe
+C:\Documents and Settings\Administrator\桌面\考試-8☆\bin\Debug\考試-8.pdb
+C:\Documents and Settings\Administrator\桌面\考試-8☆\bin\Debug\考試-8.xml
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\考試_8.Form1.resources
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\考試_8.Resources.resources
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-8☆\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\考試-8.exe
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\考試-8.xml
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\考試-8.pdb
+E:\程式設計\考試\考試-8☆\bin\Debug\考試-8.exe
+E:\程式設計\考試\考試-8☆\bin\Debug\考試-8.pdb
+E:\程式設計\考試\考試-8☆\bin\Debug\考試-8.xml
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\考試_8.Form1.resources
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\考試_8.Resources.resources
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\考試\考試-8☆\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\考試\考試-8\obj\x86\Debug\考試-8.exe
+D:\考試\考試-8\obj\x86\Debug\考試-8.xml
+D:\考試\考試-8\obj\x86\Debug\考試-8.pdb
+E:\考試\考試-8\obj\x86\Debug\考試-8.exe
+E:\考試\考試-8\obj\x86\Debug\考試-8.xml
+E:\考試\考試-8\obj\x86\Debug\考試-8.pdb
+E:\考試\考試-8\bin\Debug\考試-8.exe
+E:\考試\考試-8\bin\Debug\考試-8.pdb
+E:\考試\考試-8\bin\Debug\考試-8.xml
+E:\考試\考試-8\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\考試\考試-8\obj\x86\Debug\考試_8.Form1.resources
+E:\考試\考試-8\obj\x86\Debug\考試_8.Resources.resources
+E:\考試\考試-8\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\考試\考試-8\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\考試_余若榛\考試-8\obj\x86\Debug\考試-8.exe
+H:\考試_余若榛\考試-8\obj\x86\Debug\考試-8.xml
+H:\考試_余若榛\考試-8\obj\x86\Debug\考試-8.pdb

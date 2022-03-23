@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\桌面\16題_4\bin\Debug\16題_4.exe
+C:\Documents and Settings\Administrator\桌面\16題_4\bin\Debug\16題_4.pdb
+C:\Documents and Settings\Administrator\桌面\16題_4\bin\Debug\16題_4.xml
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\_16題_4.Form1.resources
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\_16題_4.Resources.resources
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\16題_4.exe
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\16題_4.xml
+C:\Documents and Settings\Administrator\桌面\16題_4\obj\x86\Debug\16題_4.pdb
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\16題_4.exe
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\16題_4.xml
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\16題_4.pdb
+F:\程式設計\16題\16題_4☆\bin\Debug\16題_4.exe
+F:\程式設計\16題\16題_4☆\bin\Debug\16題_4.pdb
+F:\程式設計\16題\16題_4☆\bin\Debug\16題_4.xml
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\_16題_4.Form1.resources
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\_16題_4.Resources.resources
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\16題\16題_4☆\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\16題_4.exe
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\16題_4.xml
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\16題_4.pdb
+C:\Documents and Settings\Administrator\桌面\16題_4☆\bin\Debug\16題_4.exe
+C:\Documents and Settings\Administrator\桌面\16題_4☆\bin\Debug\16題_4.pdb
+C:\Documents and Settings\Administrator\桌面\16題_4☆\bin\Debug\16題_4.xml
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\_16題_4.Form1.resources
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\_16題_4.Resources.resources
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\16題_4☆\obj\x86\Debug\GenerateResource.write.1.tlog

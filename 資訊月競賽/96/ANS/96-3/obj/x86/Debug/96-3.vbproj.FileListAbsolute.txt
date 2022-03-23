@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\bin\Debug\96-3.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\bin\Debug\96-3.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\bin\Debug\96-3.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\_96_3.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\_96_3.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\96-3.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\96-3.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\96-3\obj\x86\Debug\96-3.pdb
+C:\Documents and Settings\Administrator\桌面\資訊月競賽\96\ANS\96-3\obj\x86\Debug\96-3.exe
+C:\Documents and Settings\Administrator\桌面\資訊月競賽\96\ANS\96-3\obj\x86\Debug\96-3.xml
+C:\Documents and Settings\Administrator\桌面\資訊月競賽\96\ANS\96-3\obj\x86\Debug\96-3.pdb

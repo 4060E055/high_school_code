@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\桌面\考試-3\bin\Debug\考試-3.exe
+C:\Documents and Settings\Administrator\桌面\考試-3\bin\Debug\考試-3.pdb
+C:\Documents and Settings\Administrator\桌面\考試-3\bin\Debug\考試-3.xml
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\考試_3.Form1.resources
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\考試_3.Resources.resources
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\考試-3.exe
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\考試-3.xml
+C:\Documents and Settings\Administrator\桌面\考試-3\obj\x86\Debug\考試-3.pdb
+F:\考試\考試-3\obj\x86\Debug\考試-3.exe
+F:\考試\考試-3\obj\x86\Debug\考試-3.xml
+F:\考試\考試-3\obj\x86\Debug\考試-3.pdb
+E:\考試\考試-3\obj\x86\Debug\考試-3.exe
+E:\考試\考試-3\obj\x86\Debug\考試-3.xml
+E:\考試\考試-3\obj\x86\Debug\考試-3.pdb
+E:\考試\考試-3\bin\Debug\考試-3.exe
+E:\考試\考試-3\bin\Debug\考試-3.pdb
+E:\考試\考試-3\bin\Debug\考試-3.xml
+E:\考試\考試-3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\考試\考試-3\obj\x86\Debug\考試_3.Form1.resources
+E:\考試\考試-3\obj\x86\Debug\考試_3.Resources.resources
+E:\考試\考試-3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\考試\考試-3\obj\x86\Debug\GenerateResource.write.1.tlog

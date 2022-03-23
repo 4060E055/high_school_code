@@ -1,0 +1,11 @@
+C:\Documents and Settings\admin\桌面\ACM\ACM136\bin\Debug\ACM136.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM136\bin\Debug\ACM136.pdb
+C:\Documents and Settings\admin\桌面\ACM\ACM136\bin\Debug\ACM136.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\ACM136.Form1.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\ACM136.Resources.resources
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\ACM136.exe
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\ACM136.xml
+C:\Documents and Settings\admin\桌面\ACM\ACM136\obj\x86\Debug\ACM136.pdb

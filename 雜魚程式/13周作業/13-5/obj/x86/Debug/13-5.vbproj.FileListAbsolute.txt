@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\13-5\bin\Debug\13-5.exe
+C:\Documents and Settings\Administrator\桌面\13-5\bin\Debug\13-5.pdb
+C:\Documents and Settings\Administrator\桌面\13-5\bin\Debug\13-5.xml
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\_13_5.Form1.resources
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\_13_5.Resources.resources
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\13-5.exe
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\13-5.xml
+C:\Documents and Settings\Administrator\桌面\13-5\obj\x86\Debug\13-5.pdb
+G:\13周\13-5\obj\x86\Debug\13-5.exe
+G:\13周\13-5\obj\x86\Debug\13-5.xml
+G:\13周\13-5\obj\x86\Debug\13-5.pdb
+D:\13周\13-5\obj\x86\Debug\13-5.exe
+D:\13周\13-5\obj\x86\Debug\13-5.xml
+D:\13周\13-5\obj\x86\Debug\13-5.pdb

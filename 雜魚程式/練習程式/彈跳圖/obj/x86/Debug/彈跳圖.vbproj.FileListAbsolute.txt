@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\桌面\彈跳圖\bin\Debug\彈跳圖.exe
+C:\Documents and Settings\Administrator\桌面\彈跳圖\bin\Debug\彈跳圖.pdb
+C:\Documents and Settings\Administrator\桌面\彈跳圖\bin\Debug\彈跳圖.xml
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\_111111.Form1.resources
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\_111111.Resources.resources
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\彈跳圖.exe
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\彈跳圖.xml
+C:\Documents and Settings\Administrator\桌面\彈跳圖\obj\x86\Debug\彈跳圖.pdb

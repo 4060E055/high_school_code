@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\bin\Debug\100-2.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\bin\Debug\100-2.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\bin\Debug\100-2.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\_100_2.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\_100_2.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\100-2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\100-2.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\100-2.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\100-2\obj\Debug\100-2.pdb
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\100-2.exe
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\100-2.xml
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\100-2.pdb
+C:\Documents and Settings\Administrator\桌面\100-2\bin\Debug\100-2.exe
+C:\Documents and Settings\Administrator\桌面\100-2\bin\Debug\100-2.pdb
+C:\Documents and Settings\Administrator\桌面\100-2\bin\Debug\100-2.xml
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\_100_2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\_100_2.Resources.resources
+C:\Documents and Settings\Administrator\桌面\100-2\obj\Debug\100-2.vbproj.GenerateResource.Cache

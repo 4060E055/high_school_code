@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\桌面\考試7\bin\Debug\考試7.exe
+C:\Documents and Settings\Administrator\桌面\考試7\bin\Debug\考試7.pdb
+C:\Documents and Settings\Administrator\桌面\考試7\bin\Debug\考試7.xml
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\考試7.Form1.resources
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\考試7.Resources.resources
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\考試7.exe
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\考試7.xml
+C:\Documents and Settings\Administrator\桌面\考試7\obj\x86\Debug\考試7.pdb
+D:\考試\考試-7\obj\x86\Debug\考試7.exe
+D:\考試\考試-7\obj\x86\Debug\考試7.xml
+D:\考試\考試-7\obj\x86\Debug\考試7.pdb
+D:\考試\考試-7\bin\Debug\考試7.exe
+D:\考試\考試-7\bin\Debug\考試7.pdb
+D:\考試\考試-7\bin\Debug\考試7.xml
+D:\考試\考試-7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\考試\考試-7\obj\x86\Debug\考試7.Form1.resources
+D:\考試\考試-7\obj\x86\Debug\考試7.Resources.resources
+D:\考試\考試-7\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\考試\考試-7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\考試\考試-7\obj\x86\Debug\考試7.exe
+E:\考試\考試-7\obj\x86\Debug\考試7.xml
+E:\考試\考試-7\obj\x86\Debug\考試7.pdb
+E:\考試\考試-7\bin\Debug\考試7.exe
+E:\考試\考試-7\bin\Debug\考試7.pdb
+E:\考試\考試-7\bin\Debug\考試7.xml
+E:\考試\考試-7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\考試\考試-7\obj\x86\Debug\考試7.Form1.resources
+E:\考試\考試-7\obj\x86\Debug\考試7.Resources.resources
+E:\考試\考試-7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\考試\考試-7\obj\x86\Debug\GenerateResource.write.1.tlog

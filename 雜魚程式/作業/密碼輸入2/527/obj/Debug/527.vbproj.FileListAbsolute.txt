@@ -1,0 +1,23 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\bin\Debug\527.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\bin\Debug\527.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\bin\Debug\527.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\_527.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\_527.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\527.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\527.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\527.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\527\obj\Debug\527.pdb
+C:\Documents and Settings\YUDA\桌面\密碼輸入2\527\obj\Debug\527.exe
+C:\Documents and Settings\YUDA\桌面\密碼輸入2\527\obj\Debug\527.xml
+C:\Documents and Settings\YUDA\桌面\密碼輸入2\527\obj\Debug\527.pdb
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\527.exe
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\527.xml
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\527.pdb
+D:\程式設計\作業\密碼輸入2\527\bin\Debug\527.exe
+D:\程式設計\作業\密碼輸入2\527\bin\Debug\527.pdb
+D:\程式設計\作業\密碼輸入2\527\bin\Debug\527.xml
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\ResolveAssemblyReference.cache
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\_527.Form1.resources
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\_527.Resources.resources
+D:\程式設計\作業\密碼輸入2\527\obj\Debug\527.vbproj.GenerateResource.Cache

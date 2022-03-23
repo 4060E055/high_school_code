@@ -1,0 +1,23 @@
+C:\Documents and Settings\Administrator\桌面\Q7\bin\Debug\Q7.exe
+C:\Documents and Settings\Administrator\桌面\Q7\bin\Debug\Q7.pdb
+C:\Documents and Settings\Administrator\桌面\Q7\bin\Debug\Q7.xml
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\Q7.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\Q7.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\Q7.exe
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\Q7.xml
+C:\Documents and Settings\Administrator\桌面\Q7\obj\x86\Debug\Q7.pdb
+F:\程式設計\92\Q7\obj\x86\Debug\Q7.exe
+F:\程式設計\92\Q7\obj\x86\Debug\Q7.xml
+F:\程式設計\92\Q7\obj\x86\Debug\Q7.pdb
+D:\程式設計\92\Q7\obj\x86\Debug\Q7.exe
+D:\程式設計\92\Q7\obj\x86\Debug\Q7.xml
+D:\程式設計\92\Q7\obj\x86\Debug\Q7.pdb
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q7\obj\x86\Debug\Q7.exe
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q7\obj\x86\Debug\Q7.xml
+C:\Documents and Settings\Administrator\桌面\92比賽試題\Q7\obj\x86\Debug\Q7.pdb
+F:\程式設計\92比賽試題(225-余若榛)\Q7\obj\x86\Debug\Q7.exe
+F:\程式設計\92比賽試題(225-余若榛)\Q7\obj\x86\Debug\Q7.xml
+F:\程式設計\92比賽試題(225-余若榛)\Q7\obj\x86\Debug\Q7.pdb

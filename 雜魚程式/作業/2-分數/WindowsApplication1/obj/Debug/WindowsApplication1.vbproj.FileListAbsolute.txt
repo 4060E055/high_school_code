@@ -1,0 +1,23 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.F2.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\程式設計\作業\2-分數\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\程式設計\作業\2-分數\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\程式設計\作業\2-分數\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.F2.resources
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\程式設計\作業\2-分數\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

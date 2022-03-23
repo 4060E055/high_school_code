@@ -1,0 +1,23 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\bin\Debug\123.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\bin\Debug\123.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\bin\Debug\123.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\_123.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\_123.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\123.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\123.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\123.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\123\obj\Debug\123.pdb
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\bin\Debug\123.exe
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\bin\Debug\123.pdb
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\bin\Debug\123.xml
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\_123.Form1.resources
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\_123.Resources.resources
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\123.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\123.exe
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\123.xml
+C:\Documents and Settings\YUDA\桌面\密碼輸入\123\obj\Debug\123.pdb
+D:\程式設計\作業\密碼輸入\123\obj\Debug\123.exe
+D:\程式設計\作業\密碼輸入\123\obj\Debug\123.xml
+D:\程式設計\作業\密碼輸入\123\obj\Debug\123.pdb

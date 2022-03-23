@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "97-6 (模)", "97-6 (模).vbproj", "{0973FE39-73F8-44D3-A1B3-4A3443688274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0973FE39-73F8-44D3-A1B3-4A3443688274}.Debug|x86.ActiveCfg = Debug|x86
+		{0973FE39-73F8-44D3-A1B3-4A3443688274}.Debug|x86.Build.0 = Debug|x86
+		{0973FE39-73F8-44D3-A1B3-4A3443688274}.Release|x86.ActiveCfg = Release|x86
+		{0973FE39-73F8-44D3-A1B3-4A3443688274}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

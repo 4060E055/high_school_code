@@ -1,0 +1,3 @@
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.pdb

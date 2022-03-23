@@ -1,0 +1,44 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\bin\Debug\作9.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\bin\Debug\作9.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\bin\Debug\作9.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\作9.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\作9.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\作9.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\作9.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\作9\obj\x86\Debug\作9.pdb
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\作9.exe
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\作9.xml
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\作9.pdb
+C:\Documents and Settings\Administrator\桌面\作9\bin\Debug\作9.exe
+C:\Documents and Settings\Administrator\桌面\作9\bin\Debug\作9.pdb
+C:\Documents and Settings\Administrator\桌面\作9\bin\Debug\作9.xml
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\作9.Form1.resources
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\作9.Resources.resources
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\作9\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程式設計\作\作9\obj\x86\Debug\作9.exe
+E:\程式設計\作\作9\obj\x86\Debug\作9.xml
+E:\程式設計\作\作9\obj\x86\Debug\作9.pdb
+E:\程式設計\作\作9\bin\Debug\作9.exe
+E:\程式設計\作\作9\bin\Debug\作9.pdb
+E:\程式設計\作\作9\bin\Debug\作9.xml
+E:\程式設計\作\作9\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\作\作9\obj\x86\Debug\作9.Form1.resources
+E:\程式設計\作\作9\obj\x86\Debug\作9.Resources.resources
+E:\程式設計\作\作9\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\作\作9\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式設計\作\作9\obj\x86\Debug\作9.exe
+D:\程式設計\作\作9\obj\x86\Debug\作9.xml
+D:\程式設計\作\作9\obj\x86\Debug\作9.pdb
+D:\程式設計\作\作9\bin\Debug\作9.exe
+D:\程式設計\作\作9\bin\Debug\作9.pdb
+D:\程式設計\作\作9\bin\Debug\作9.xml
+D:\程式設計\作\作9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\作\作9\obj\x86\Debug\作9.Form1.resources
+D:\程式設計\作\作9\obj\x86\Debug\作9.Resources.resources
+D:\程式設計\作\作9\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\作\作9\obj\x86\Debug\GenerateResource.write.1.tlog

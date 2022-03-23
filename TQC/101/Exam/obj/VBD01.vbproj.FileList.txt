@@ -1,0 +1,10 @@
+bin\Debug\VBD01.exe
+bin\Debug\VBD01.pdb
+bin\Debug\VBD01.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VBD01.Form1.resources
+obj\Debug\VBD01.Resources.resources
+obj\Debug\VBD01.vbproj.GenerateResource.Cache
+obj\Debug\VBD01.exe
+obj\Debug\VBD01.xml
+obj\Debug\VBD01.pdb

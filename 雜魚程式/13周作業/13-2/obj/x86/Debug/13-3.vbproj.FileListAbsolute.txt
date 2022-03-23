@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\桌面\13-2\bin\Debug\13-3.exe
+C:\Documents and Settings\Administrator\桌面\13-2\bin\Debug\13-3.pdb
+C:\Documents and Settings\Administrator\桌面\13-2\bin\Debug\13-3.xml
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\_13_2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\_13_2.Resources.resources
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\13-3.exe
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\13-3.xml
+C:\Documents and Settings\Administrator\桌面\13-2\obj\x86\Debug\13-3.pdb
+D:\13周\13-2\obj\x86\Debug\13-3.exe
+D:\13周\13-2\obj\x86\Debug\13-3.xml
+D:\13周\13-2\obj\x86\Debug\13-3.pdb
+D:\13周\13-2\bin\Debug\13-3.exe
+D:\13周\13-2\bin\Debug\13-3.pdb
+D:\13周\13-2\bin\Debug\13-3.xml
+D:\13周\13-2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\13周\13-2\obj\x86\Debug\_13_2.Form1.resources
+D:\13周\13-2\obj\x86\Debug\_13_2.Resources.resources
+D:\13周\13-2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\13周\13-2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\13周\13-2\obj\x86\Debug\13-3.exe
+F:\程式設計\13周\13-2\obj\x86\Debug\13-3.xml
+F:\程式設計\13周\13-2\obj\x86\Debug\13-3.pdb

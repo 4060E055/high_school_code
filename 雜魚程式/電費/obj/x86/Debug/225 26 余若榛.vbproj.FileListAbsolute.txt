@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\bin\Debug\225 26 余若榛.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\bin\Debug\225 26 余若榛.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\bin\Debug\225 26 余若榛.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\_225_26_余若榛.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\_225_26_余若榛.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\225 26 余若榛.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\225 26 余若榛.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\225 26 余若榛\obj\x86\Debug\225 26 余若榛.pdb
+C:\Documents and Settings\Administrator\桌面\225 26 余若榛\obj\x86\Debug\225 26 余若榛.exe
+C:\Documents and Settings\Administrator\桌面\225 26 余若榛\obj\x86\Debug\225 26 余若榛.xml
+C:\Documents and Settings\Administrator\桌面\225 26 余若榛\obj\x86\Debug\225 26 余若榛.pdb
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\225 26 余若榛.exe
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\225 26 余若榛.xml
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\225 26 余若榛.pdb
+C:\Documents and Settings\Administrator\桌面\電費\bin\Debug\225 26 余若榛.exe
+C:\Documents and Settings\Administrator\桌面\電費\bin\Debug\225 26 余若榛.pdb
+C:\Documents and Settings\Administrator\桌面\電費\bin\Debug\225 26 余若榛.xml
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\_225_26_余若榛.Form1.resources
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\_225_26_余若榛.Resources.resources
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\電費\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\電費\obj\x86\Debug\225 26 余若榛.exe
+F:\電費\obj\x86\Debug\225 26 余若榛.xml
+F:\電費\obj\x86\Debug\225 26 余若榛.pdb
+D:\電費\obj\x86\Debug\225 26 余若榛.exe
+D:\電費\obj\x86\Debug\225 26 余若榛.xml
+D:\電費\obj\x86\Debug\225 26 余若榛.pdb

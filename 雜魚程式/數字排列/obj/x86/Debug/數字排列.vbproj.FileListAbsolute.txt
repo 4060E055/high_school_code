@@ -1,0 +1,77 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\bin\Debug\數字排列.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\bin\Debug\數字排列.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\bin\Debug\數字排列.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\數字排列.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\數字排列.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\數字排列.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\數字排列.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\數字排列\obj\x86\Debug\數字排列.pdb
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\數字排列.exe
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\數字排列.xml
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\數字排列.pdb
+C:\Documents and Settings\Administrator\桌面\數字排列\bin\Debug\數字排列.exe
+C:\Documents and Settings\Administrator\桌面\數字排列\bin\Debug\數字排列.pdb
+C:\Documents and Settings\Administrator\桌面\數字排列\bin\Debug\數字排列.xml
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\數字排列.Form1.resources
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\數字排列.Resources.resources
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\數字排列\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程式設計\數字排列\obj\x86\Debug\數字排列.exe
+E:\程式設計\數字排列\obj\x86\Debug\數字排列.xml
+E:\程式設計\數字排列\obj\x86\Debug\數字排列.pdb
+E:\程式設計\數字排列\bin\Debug\數字排列.exe
+E:\程式設計\數字排列\bin\Debug\數字排列.pdb
+E:\程式設計\數字排列\bin\Debug\數字排列.xml
+E:\程式設計\數字排列\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\數字排列\obj\x86\Debug\數字排列.Form1.resources
+E:\程式設計\數字排列\obj\x86\Debug\數字排列.Resources.resources
+E:\程式設計\數字排列\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\數字排列\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程式設計\數字排列\obj\x86\Debug\數字排列.exe
+D:\程式設計\數字排列\obj\x86\Debug\數字排列.xml
+D:\程式設計\數字排列\obj\x86\Debug\數字排列.pdb
+D:\程式設計\數字排列\bin\Debug\數字排列.exe
+D:\程式設計\數字排列\bin\Debug\數字排列.pdb
+D:\程式設計\數字排列\bin\Debug\數字排列.xml
+D:\程式設計\數字排列\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\數字排列\obj\x86\Debug\數字排列.Form1.resources
+D:\程式設計\數字排列\obj\x86\Debug\數字排列.Resources.resources
+D:\程式設計\數字排列\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\數字排列\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.exe
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.xml
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.pdb
+E:\程式設計\數字排列225余若榛\bin\Debug\數字排列.exe
+E:\程式設計\數字排列225余若榛\bin\Debug\數字排列.pdb
+E:\程式設計\數字排列225余若榛\bin\Debug\數字排列.xml
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.Form1.resources
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.Resources.resources
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\數字排列225余若榛\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.exe
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.xml
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.pdb
+F:\程式設計\數字排列225余若榛\bin\Debug\數字排列.exe
+F:\程式設計\數字排列225余若榛\bin\Debug\數字排列.pdb
+F:\程式設計\數字排列225余若榛\bin\Debug\數字排列.xml
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.Form1.resources
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\數字排列.Resources.resources
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\程式設計\數字排列225余若榛\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\數字排列.exe
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\數字排列.xml
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\數字排列.pdb
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\bin\Debug\數字排列.exe
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\bin\Debug\數字排列.pdb
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\bin\Debug\數字排列.xml
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\數字排列.Form1.resources
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\數字排列.Resources.resources
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\影像\課業學習\程式設計\程式\數字排列225余若榛2\obj\x86\Debug\GenerateResource.write.1.tlog

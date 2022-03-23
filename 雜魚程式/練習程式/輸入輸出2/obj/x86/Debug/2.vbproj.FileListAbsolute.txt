@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrator\桌面\2\bin\Debug\2.exe
+C:\Documents and Settings\Administrator\桌面\2\bin\Debug\2.pdb
+C:\Documents and Settings\Administrator\桌面\2\bin\Debug\2.xml
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\_2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\_2.Resources.resources
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\2.exe
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\2.xml
+C:\Documents and Settings\Administrator\桌面\2\obj\x86\Debug\2.pdb
+F:\2\obj\x86\Debug\2.exe
+F:\2\obj\x86\Debug\2.xml
+F:\2\obj\x86\Debug\2.pdb
+F:\2\bin\Debug\2.exe
+F:\2\bin\Debug\2.pdb
+F:\2\bin\Debug\2.xml
+F:\2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2\obj\x86\Debug\_2.Form1.resources
+F:\2\obj\x86\Debug\_2.Resources.resources
+F:\2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\2\obj\x86\Debug\2.exe
+D:\2\obj\x86\Debug\2.xml
+D:\2\obj\x86\Debug\2.pdb
+E:\2\obj\x86\Debug\2.exe
+E:\2\obj\x86\Debug\2.xml
+E:\2\obj\x86\Debug\2.pdb
+E:\2\bin\Debug\2.exe
+E:\2\bin\Debug\2.pdb
+E:\2\bin\Debug\2.xml
+E:\2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2\obj\x86\Debug\_2.Form1.resources
+E:\2\obj\x86\Debug\_2.Resources.resources
+E:\2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\2-2\obj\x86\Debug\2.exe
+G:\2-2\obj\x86\Debug\2.xml
+G:\2-2\obj\x86\Debug\2.pdb

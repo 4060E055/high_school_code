@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\桌面\Q6☆\bin\Debug\Q6.exe
+C:\Documents and Settings\Administrator\桌面\Q6☆\bin\Debug\Q6.pdb
+C:\Documents and Settings\Administrator\桌面\Q6☆\bin\Debug\Q6.xml
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\Q6.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\Q6.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\Q6.exe
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\Q6.xml
+C:\Documents and Settings\Administrator\桌面\Q6☆\obj\x86\Debug\Q6.pdb
+F:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.exe
+F:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.xml
+F:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.pdb
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.exe
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.xml
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.pdb
+D:\程式設計\92比賽試題\Q6☆\bin\Debug\Q6.exe
+D:\程式設計\92比賽試題\Q6☆\bin\Debug\Q6.pdb
+D:\程式設計\92比賽試題\Q6☆\bin\Debug\Q6.xml
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.Form1.resources
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\Q6.Resources.resources
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程式設計\92比賽試題\Q6☆\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\程式設計\92比賽試題\Q6\obj\x86\Debug\Q6.exe
+F:\程式設計\92比賽試題\Q6\obj\x86\Debug\Q6.xml
+F:\程式設計\92比賽試題\Q6\obj\x86\Debug\Q6.pdb

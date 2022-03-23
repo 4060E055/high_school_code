@@ -1,0 +1,34 @@
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\_44.Form1.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\_44.Resources.resources
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\44.vbproj.GenerateResource.Cache
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\bin\Debug\44.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\bin\Debug\44.pdb
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\bin\Debug\44.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\44.exe
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\44.xml
+C:\Documents and Settings\YUDA\Local Settings\Application Data\Temporary Projects\44\obj\Debug\44.pdb
+C:\Documents and Settings\YUDA\桌面\新資料夾\44\obj\Debug\44.exe
+C:\Documents and Settings\YUDA\桌面\新資料夾\44\obj\Debug\44.xml
+C:\Documents and Settings\YUDA\桌面\新資料夾\44\obj\Debug\44.pdb
+D:\程式設計\新資料夾\44\obj\Debug\44.exe
+D:\程式設計\新資料夾\44\obj\Debug\44.xml
+D:\程式設計\新資料夾\44\obj\Debug\44.pdb
+D:\程式設計\新資料夾\44\bin\Debug\44.exe
+D:\程式設計\新資料夾\44\bin\Debug\44.pdb
+D:\程式設計\新資料夾\44\bin\Debug\44.xml
+D:\程式設計\新資料夾\44\obj\Debug\ResolveAssemblyReference.cache
+D:\程式設計\新資料夾\44\obj\Debug\_44.Form1.resources
+D:\程式設計\新資料夾\44\obj\Debug\_44.Resources.resources
+D:\程式設計\新資料夾\44\obj\Debug\44.vbproj.GenerateResource.Cache
+F:\影像\程式設計\新資料夾\44\obj\Debug\44.xml
+F:\影像\程式設計\新資料夾\44\obj\Debug\44.pdb
+F:\影像\程式設計\新資料夾\44\bin\Debug\44.exe
+F:\影像\程式設計\新資料夾\44\bin\Debug\44.pdb
+F:\影像\程式設計\新資料夾\44\bin\Debug\44.xml
+F:\影像\程式設計\新資料夾\44\obj\Debug\ResolveAssemblyReference.cache
+F:\影像\程式設計\新資料夾\44\obj\Debug\_44.Form1.resources
+F:\影像\程式設計\新資料夾\44\obj\Debug\_44.Resources.resources
+F:\影像\程式設計\新資料夾\44\obj\Debug\GenerateResource.read.1.tlog
+F:\影像\程式設計\新資料夾\44\obj\Debug\GenerateResource.write.1.tlog
+F:\影像\程式設計\新資料夾\44\obj\Debug\44.exe

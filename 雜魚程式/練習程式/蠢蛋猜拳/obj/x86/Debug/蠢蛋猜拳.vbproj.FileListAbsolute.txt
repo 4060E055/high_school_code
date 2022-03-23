@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\bin\Debug\蠢蛋猜拳.exe
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\bin\Debug\蠢蛋猜拳.pdb
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\bin\Debug\蠢蛋猜拳.xml
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\蠢蛋猜拳.exe
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\蠢蛋猜拳.xml
+C:\Documents and Settings\Administrator\桌面\蠢蛋猜拳\obj\x86\Debug\蠢蛋猜拳.pdb
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\蠢蛋猜拳.exe
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\蠢蛋猜拳.xml
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\蠢蛋猜拳.pdb
+E:\程式設計\練習程式\蠢蛋猜拳\bin\Debug\蠢蛋猜拳.exe
+E:\程式設計\練習程式\蠢蛋猜拳\bin\Debug\蠢蛋猜拳.pdb
+E:\程式設計\練習程式\蠢蛋猜拳\bin\Debug\蠢蛋猜拳.xml
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\WindowsApplication2.Form1.resources
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程式設計\練習程式\蠢蛋猜拳\obj\x86\Debug\GenerateResource.write.1.tlog

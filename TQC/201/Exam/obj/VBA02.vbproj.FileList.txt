@@ -1,0 +1,10 @@
+bin\Debug\VBA02.exe
+bin\Debug\VBA02.pdb
+bin\Debug\VBA02.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VBA02.Form1.resources
+obj\Debug\VBA02.Resources.resources
+obj\Debug\VBA02.vbproj.GenerateResource.Cache
+obj\Debug\VBA02.exe
+obj\Debug\VBA02.xml
+obj\Debug\VBA02.pdb

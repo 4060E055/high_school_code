@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\桌面\作10☆\bin\Debug\作10.exe
+C:\Documents and Settings\Administrator\桌面\作10☆\bin\Debug\作10.pdb
+C:\Documents and Settings\Administrator\桌面\作10☆\bin\Debug\作10.xml
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\作10.Form1.resources
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\作10.Resources.resources
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\作10.exe
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\作10.xml
+C:\Documents and Settings\Administrator\桌面\作10☆\obj\x86\Debug\作10.pdb
+E:\程式設計\作\作10\obj\x86\Debug\作10.exe
+E:\程式設計\作\作10\obj\x86\Debug\作10.xml
+E:\程式設計\作\作10\obj\x86\Debug\作10.pdb

@@ -1,0 +1,17 @@
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0001\Exam\VBD02\SchoolApplication\obj\Debug\SchoolApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0001\Exam\VBD02\SchoolApplication\obj\Debug\SchoolApplication.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0001\Exam\VBD02\SchoolApplication\obj\Debug\SchoolApplication.pdb
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.exe
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.xml
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.pdb
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\bin\Debug\SchoolApplication.exe
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\bin\Debug\SchoolApplication.pdb
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\bin\Debug\SchoolApplication.xml
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.Form1.resources
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.Form2.resources
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.Resources.resources
+D:\VB2008\外測\VB2008 洪小姐外測題目\術科\第一回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.vbproj.GenerateResource.Cache
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第3回合\待編修檔\VBD02\SchoolApplication\obj\Debug\SchoolApplication.pdb

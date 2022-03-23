@@ -1,0 +1,14 @@
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\bin\Debug\98-6 (正).exe
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\bin\Debug\98-6 (正).pdb
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\bin\Debug\98-6 (正).xml
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\_98_6__正_.Form1.resources
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\_98_6__正_.Resources.resources
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\98-6 (正).exe
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\98-6 (正).xml
+H:\程式設計\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\98-6 (正).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\98-6 (正).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\98-6 (正).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\98正式-術科\98-6 (正)\obj\x86\Debug\98-6 (正).pdb

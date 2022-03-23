@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\bin\Debug\97-8 (正).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\bin\Debug\97-8 (正).pdb
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\bin\Debug\97-8 (正).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\_97_8__正_.Form1.resources
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\_97_8__正_.Resources.resources
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\97-8 (正).exe
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\97-8 (正).xml
+C:\Documents and Settings\Administrator\桌面\歷屆試題\97正式-術科\97-8 (正)\obj\x86\Debug\97-8 (正).pdb

@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\桌面\13-1\bin\Debug\13-1.exe
+C:\Documents and Settings\Administrator\桌面\13-1\bin\Debug\13-1.pdb
+C:\Documents and Settings\Administrator\桌面\13-1\bin\Debug\13-1.xml
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\_13_1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\_13_1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\13-1.exe
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\13-1.xml
+C:\Documents and Settings\Administrator\桌面\13-1\obj\x86\Debug\13-1.pdb

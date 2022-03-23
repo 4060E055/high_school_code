@@ -1,0 +1,6 @@
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0002\Exam\VBD01\userApplication\obj\Debug\userApplication.exe
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0002\Exam\VBD01\userApplication\obj\Debug\userApplication.xml
+D:\VB2005_交接光碟資料\開發試題\開發中試題\陳彥錚\術科\MVB-0002\Exam\VBD01\userApplication\obj\Debug\userApplication.pdb
+C:\Documents and Settings\karen_tsai\桌面\術科\第4回合\待編修檔\VBD01\userApplication\obj\Debug\userApplication.exe
+C:\Documents and Settings\karen_tsai\桌面\術科\第4回合\待編修檔\VBD01\userApplication\obj\Debug\userApplication.xml
+C:\Documents and Settings\karen_tsai\桌面\術科\第4回合\待編修檔\VBD01\userApplication\obj\Debug\userApplication.pdb
